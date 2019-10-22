@@ -1,0 +1,8 @@
+{
+    "wsu-comment-block": {
+        "prefix": "wsu-comment-block",
+        "body": "/* ${1:Comment Block} \n======================= */",
+        "description": "Comment: Default block style",
+        "scope": ""
+    }
+}
