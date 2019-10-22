@@ -1,6 +1,6 @@
-# wsu-comments README
+# WSU Comments
 
-Comment snippets.
+A VS Code extension to handle comment snippets.
 
 ## Features
 
