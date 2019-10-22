@@ -1,4 +1,4 @@
-# WSU Comments
+# VS Code WSU Comments
 
 A VS Code extension to handle comment snippets.
 
