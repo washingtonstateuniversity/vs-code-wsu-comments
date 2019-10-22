@@ -1,0 +1,14 @@
+{
+    "wsu-component-start": {
+        "prefix": "wsu-component-start",
+        "body": "<!-- COMPONENT:START -->",
+        "description": "Comment: Opening component start tag",
+        "scope": ""
+    },
+    "wsu-component-end": {
+        "prefix": "wsu-component-end",
+        "body": "<!-- COMPONENT:END -->",
+        "description": "Comment: Opening component end tag",
+        "scope": ""
+    }
+}
