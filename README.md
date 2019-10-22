@@ -8,9 +8,9 @@ Adds comment snippets to VS Code. Currently supported:
 
 - `wsu-comment-block`
 
-## Known Issues
+## How to Install
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+- Clone repo to `/Users/<username>/.vscode/extensions` (Mac)
 
 ## Release Notes
 
