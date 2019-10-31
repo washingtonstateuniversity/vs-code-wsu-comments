@@ -5,15 +5,33 @@
         "description": "Comment: Default Class/Method Block",
         "scope": ""
 	},
-	"wsu-comment-php-block": {
-        "prefix": "wsu-comment-php-block",
+	"wsu-comment-php-full": {
+        "prefix": "wsu-comment-php-full",
 		"body": "/**\n * Description\n *\n * @since 0.0.0\n * @deprecated x.x.x Use .....\n *\n * @link URL that provides more information\n * @see: Reference to a function, method, class, or super class that is heavily-relied on within.\n *\n * @global type $$varname Description.\n *\n * @param type $$varname Description.\n * @param string $$varname Description.\n * @param array $$varname {\n *     @type type $$key Description.\n *     @type type $$key Description.\n *     @type type $$key Description.\n *     @type type $$key Description.\n * }\n * @param bool $$varname Description.\n * @param string|bool $$varname Description.\n *\n * @return type Description.\n*/",
         "description": "Comment: Default Class/Method Block",
         "scope": ""
 	},
-	"wsu-comment-php-property": {
+	"wsu-comment-php-medium": {
+        "prefix": "wsu-comment-php-medium",
+		"body": "/**\n * Description\n *\n * @since 0.0.0\n *\n * @param type $$varname Description.\n *\n * @return type Description.\n*/",
+        "description": "Comment: Default Class/Method Block",
+        "scope": ""
+	},
+	"wsu-comment-php-medium-array": {
+        "prefix": "wsu-comment-php-medium-array",
+		"body": "/**\n * Description\n *\n * @since 0.0.0\n *\n * @global type $$varname Description.\n *\n * @param type $$varname Description.\n * @param array $$varname {\n *     @type type $$key Description.\n *     @type type $$key Description.\n *     @type type $$key Description.\n * }\n *\n * @return type Description.\n*/",
+        "description": "Comment: Default Class/Method Block",
+        "scope": ""
+	},
+	"wsu-comment-php-light": {
+        "prefix": "wsu-comment-php-light",
+		"body": "/**\n * Description\n *\n * @since 0.0.0\n *\n * @param type $$varname Description.\n*/",
+        "description": "Comment: Default Class/Method Block",
+        "scope": ""
+	},
+	"wsu-comment-php-var": {
         "prefix": "wsu-comment-php-property",
-        "body": "/**\n * Description\n *\n * @since 0.0.0\n * @var type $$varname Description.\n*/",
+        "body": "/**\n * Description\n *\n * @since 0.0.0\n * @var type $$varname.\n*/",
         "description": "Comment: Default Function Block",
         "scope": ""
     }
