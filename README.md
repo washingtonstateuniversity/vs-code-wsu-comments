@@ -10,7 +10,8 @@ Adds comment snippets to VS Code. Currently supported:
 
 ## How to Install
 
-- Clone repo to `/Users/<username>/.vscode/extensions` (Mac)
+- Clone repo to `/Users/{username}/.vscode/extensions` (Mac)
+- Clone repo to `C:/Users/{username}/.vscode/extensions` (PC)
 
 ## Release Notes
 
